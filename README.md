@@ -21,6 +21,8 @@ Please refer to Spark MLlib 1.3.0 source code (Streaming LR, Streaming K-means, 
 
 ## Import project
 
-In Intellij IDEA(14, maybe similar for 13), click File-Import Project. Find the root of this framwork, click next. Choose "Import project from external model", then choose SBT. Click next. Choose "User auto-import" and Project SDK(1.7.0 or above). Click finish. 
+In Intellij IDEA(14, maybe similar for 13), click File-Import Project. Find the root of this framwork, click next. Choose "Import project from external model", then choose SBT. Click next. Choose "User auto-import" and Project SDK(1.7.0 or above). Click finish. Wait some time till it's done. 
+
+Good Good Work, Day Day Up!
 
 
