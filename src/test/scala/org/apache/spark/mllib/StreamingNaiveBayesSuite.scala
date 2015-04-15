@@ -98,12 +98,9 @@ class StreamingNaiveBayesSuite extends FunSuite with TestSuiteBase {
     intercept[SparkException] {
       StreamingNaiveBayes.train(sc.makeRDD(nan, 2))
     }
-
   }
 
  }
-
-
 
 
 
